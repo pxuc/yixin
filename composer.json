@@ -1,6 +1,6 @@
 {
   "name": "acme/hello-world",
-  "type": "project",
+  "type": "library",
     "description": "The Laravel Framework.",
   "require": {
     "monolog/monolog": "1.0.*"
